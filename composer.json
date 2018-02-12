@@ -1,0 +1,19 @@
+{
+  "name": "ialert/imap-xoauth2",
+  "description": "Extends Zend Mail library with XOauth2 authentication method",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ialert",
+      "email": "info@ialert.name"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Ialert\\Mail\\": ""
+    }
+  },
+  "minimum-stability": "dev",
+  "require": {}
+}
